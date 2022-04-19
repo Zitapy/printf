@@ -54,28 +54,4 @@ Allowed editors: vi, vim, emacs All your files will be compiled on Ubuntu 20.04 
 write (man 2 write) malloc (man 3 malloc) free (man 3 free) va_start (man 3 va_start) va_end (man 3 va_end) va_copy (man 3 va_copy) va_arg (man 3 va_arg)
 
 Authors
-Abdulganiyu Abubakar sidiq-@ayoola32 and Oluyede Sarah-@GeminRubbles
-
-# About
-A simple printf function built by Esther Ashinedu Uvo-@Zitapy and Samuel Anozie for Alx software Engineering School.
-
-Resources
- Readme
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 1 fork
-Releases
-No releases published
-Packages
-No packages published
-Contributors 2
-@Ayoola32
-Ayoola32 Abdulganiyu Abubakar Sidiq
-@GeminRubbles
-GeminRubbles
-Languages
-C
-100.0%
+Esther Ashinedu Uvo-@Zitapy and Samuel Anozie-@samcoded
