@@ -3,7 +3,6 @@
 
 #include <stdlib.h>
 #include <stdarg.h>
-
 /**
  * struct flags - struct containing flags to "turn on"
  * when a flag specifier is passed to _printf()
@@ -74,4 +73,3 @@ int print_address(va_list l, flags_t *f);
 int print_percent(va_list l, flags_t *f);
 
 #endif
-
